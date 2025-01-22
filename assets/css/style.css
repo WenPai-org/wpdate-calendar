@@ -1,0 +1,115 @@
+.wrap.wplc-settings-wrap {
+    max-width: 800px;
+    margin: 3% auto;
+}
+
+.wrap.wplc-settings-wrap h1 {
+    text-align: center;
+    margin: 0 0 1rem;
+}
+
+form {
+    padding: 6%;
+    background-color: #ffffff;
+    border-radius: 1px;
+    box-shadow: 0 0 0 1px #ccd0d4, 0 1px 1px 1px rgba(0, 0, 0, .04);
+}
+
+@media screen and (max-width: 782px) {
+    .form-table input.regular-text {
+        width: auto !important;
+    }
+
+    .form-table {
+    width: 100% !important;
+}
+    .auto-fold #wpcontent {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+.form-table td p {
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.description code {
+    line-height: 2;
+}
+
+.preview-title {
+    margin: 20px 0 10px;
+    font-size: 14px;
+}
+
+.preview-content {
+    padding: 15px;
+    background: #eff2ff;
+    border: 1px solid #e6ebfe;
+    border-radius: 0px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.lunar-preview {
+    margin: 15px 0;
+    padding: 15px;
+    background: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+}
+
+div#lunar_date_preview {
+    padding: 6%;
+    background-color: #ffffff;
+    margin: 5% 0;
+    border-radius: 1px;
+    box-shadow: 0 0 0 1px #ccd0d4, 0 1px 1px 1px rgba(0, 0, 0, .04);
+}
+
+/* 标签页导航样式 */
+.nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.nav-tab {
+    padding: 10px 15px;
+    font-weight: 400;
+    border: 1px solid #c3c4c7;
+    border-bottom: 1px solid #c3c4c7;
+    text-decoration: none;
+    background-color: #f1f1f1;
+    margin-right: 5px;
+}
+
+.nav-tab-active {
+    background-color: #fff;
+    border-bottom: 1px solid #fff!important;
+}
+
+
+/* 关于插件标签页样式 */
+.about-plugin-tab {
+    margin-top: 20px;
+}
+
+.about-plugin-tab h2 {
+    margin-bottom: 15px;
+}
+
+.about-plugin-tab p {
+    margin: 10px 0;
+}
+
+.plugin-copyright {
+    color: #777777;
+}
+
+.nav-tab-wrapper, .wrap h2.nav-tab-wrapper, h1.nav-tab-wrapper {
+    border-bottom: 0px solid #c3c4c7;
+}
+
+#wpfooter {
+    display: none;
+}
