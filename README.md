@@ -1,6 +1,6 @@
 # 关于插件
 
-**文派日历（WPDate）** 是一款独特且实用的免费插件，可以让 WordPress 显示中国农历日期，精准展示万年历、节气及传统节日，支持高度自定义，为您的网站增添东方文化韵味。
+**文派日历（WPDate.com）** 是一款独特且实用的免费插件，可以让 WordPress 显示中国农历日期，精准展示万年历、节气及传统节日，支持高度自定义，为您的网站增添东方文化韵味。
 
 ![WPDate Banner](https://github.com/WenPai-org/wpdate-calendar/blob/main/assets/images/wpdate-banner.jpg)
 
